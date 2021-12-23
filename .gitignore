@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# .DS_Store file from mac images. I hope this isn't important
+.DS_Store
